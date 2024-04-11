@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am The official bot of The 'Blood✨'","👍","❤️","THANKS 🌇"];
+const statusMessages = ["🫅👑 Made by Trafalgar D. Water Law🫅👑", "Join https://discord.gg/SMnW3Zmt9T" , "🤖 I am The official bot of The Hell cat server 🤖" , "🫅👑 Made by Trafalgar D. Water Law🫅👑", "Join https://discord.gg/SMnW3Zmt9T"];
 
 
 let currentIndex = 0;
